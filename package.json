@@ -2,7 +2,7 @@
   "name": "chess",
   "version": "1.0.0",
   "main": "index.js",
-  "author": "Abdul Gafoor <gafoor.abdul@live.com>",
+  "author": "Abdul Gafoor",
   "license": "MIT",
   "scripts": {
     "start": "npm run build && electron ./dist/electron.js",
